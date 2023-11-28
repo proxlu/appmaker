@@ -1,2 +1,2 @@
 # appmaker
-Construtor de aplicativos android intuitivo e em nuvem.
+Construtor de aplicativos Android intuitivo e em nuvem.
